@@ -1,2 +1,2 @@
 # OCamlDataStructures
-Practicing of impleting various data structures and algorithms in OCaml
+Practicing of implementing various data structures and algorithms in OCaml
